@@ -1,6 +1,6 @@
 # To-Do List da terminale (Python)
 
-Un semplice programma in Python per gestire una lista di cose da fare tramite il terminale. I dati vengono salvati su un file `attivita.txt`.
+Un semplice programma in Python per gestire una lista di cose da fare tramite il terminale. I dati vengono salvati su un file chiamato `attivita.txt`.
 
 ## Come si usa
 
