@@ -4,7 +4,7 @@ Un semplice programma in Python per gestire una lista di cose da fare tramite il
 
 ## Come si usa
 
-1. Apri`/to-do-list-py-ita-main` nel CMD
+1. Apri `/to-do-list-py-ita-main` nel CMD
 2. Esegui `python .\todo.py` nel CMD
 3. Segui il menu per aggiungere, rimuovere o visualizzare attività
 4. Le attività vengono salvate automaticamente
