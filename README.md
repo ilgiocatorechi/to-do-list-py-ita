@@ -9,6 +9,10 @@ Un semplice programma in Python per gestire una lista di cose da fare tramite il
 3. Segui il menu per aggiungere, rimuovere o visualizzare attività
 4. Le attività vengono salvate automaticamente
 
+## Localizzazione
+
+[Inglese](https://github.com/ilgiocatorechi/to-do-list-py)
+
 ## Requisiti
 
 - [Python 3 installato](https://www.python.org/downloads/)
